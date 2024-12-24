@@ -1,0 +1,14 @@
+.bannerImage {
+  aspect-ratio: 2.4;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  max-width: 1360px; /* добавил */
+  margin: 0 auto; /* Центрирование контейнера добавил */
+}
+
+@media (max-width: 991px) {
+  .bannerImage {
+    max-width: 100%;
+  }
+}
