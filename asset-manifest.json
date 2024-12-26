@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Itog/static/css/main.7ef52602.css",
+    "main.js": "/React_Itog/static/js/main.668d7916.js",
+    "index.html": "/React_Itog/index.html",
+    "main.7ef52602.css.map": "/React_Itog/static/css/main.7ef52602.css.map",
+    "main.668d7916.js.map": "/React_Itog/static/js/main.668d7916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef52602.css",
+    "static/js/main.668d7916.js"
+  ]
+}
